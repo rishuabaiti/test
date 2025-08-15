@@ -1,0 +1,13 @@
+2025-07-01 12:38:53 processpid:328564,processname:./demo328564,timeout:30,recenttime:1751344723
+2025-07-01 12:38:53 processpid:328709,processname:./demo328709,timeout:30,recenttime:1751344727
+2025-07-01 12:38:53 processpid:328812,processname:./demo328812,timeout:10,recenttime:1751344723
+2025-07-01 12:38:53 i=2,pid=328812 进程已经超时!
+2025-07-01 12:38:54 i=2,pid=328812进程正常退出!
+2025-07-01 12:44:05 processpid:328564,processname:./demo328564,timeout:30,recenttime:1751345043
+2025-07-01 12:44:05 processpid:328709,processname:./demo328709,timeout:30,recenttime:1751345042
+2025-07-01 12:44:05 processpid:334184,processname:./demo334184,timeout:10,recenttime:1751345040
+2025-07-01 12:44:40 processpid:328564,processname:./demo328564,timeout:30,recenttime:1751345073
+2025-07-01 12:44:40 processpid:328709,processname:./demo328709,timeout:30,recenttime:1751345072
+2025-07-01 12:44:40 processpid:334184,processname:./demo334184,timeout:10,recenttime:1751345070
+2025-07-01 12:44:40 i=2,pid=334184 进程已经超时!
+2025-07-01 12:44:45 i=2,pid=334184进程被强制杀死!
