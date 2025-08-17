@@ -1,7 +1,7 @@
 #include"../../common/common.h"
 
 
-//生成气象站观测数据
+//生成气象站观测数据111
 // /home/ubuntu/bilibili/BigProjrct/idc/ini/stcode.ini (气象站点参数文件名。) 
 // /home/ubuntu/bilibili/BigProjrct/surfdatas  (气象站点数据文件存放的目录。)
 //  /home/ubuntu/bilibili/BigProjrct/logs  (本程序运行的日志文件名。)
